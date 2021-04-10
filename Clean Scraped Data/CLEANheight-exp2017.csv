@@ -1,0 +1,350 @@
+,School,Avg_Height,Avg_Experience
+0,abilene christian,76.0,1.0
+1,air force,76.0,1.9
+2,akron,77.0,1.8
+3,alabama,78.0,1.5
+4,alabama am,75.0,1.3
+5,alabama state,76.0,1.6
+6,albany-ny,77.0,1.4
+7,alcorn state,76.0,1.1
+8,american,77.0,1.3
+9,appalachian state,77.0,1.0
+10,arizona,78.0,0.7
+11,arizona state,76.0,1.2
+12,arkansas,77.0,1.7
+13,arkansas little rock,76.0,1.7
+14,arkansas pine bluff,77.0,0.9
+15,arkansas state,75.0,0.7
+16,army,76.0,1.3
+17,auburn,77.0,0.8
+18,austin peay,76.0,1.3
+19,ball state,78.0,1.7
+20,baylor,78.0,1.6
+21,belmont,78.0,2.1
+22,bethune cookman,76.0,0.3
+23,binghamton,76.0,1.6
+24,boise state,78.0,1.3
+25,boston college,78.0,1.3
+27,bowling green-state,76.0,1.4
+28,bradley,77.0,0.8
+29,brown,76.0,1.6
+30,bryant,76.0,1.1
+31,bucknell,76.0,1.4
+32,buffalo,77.0,1.2
+33,butler,76.0,1.9
+34,brigham young,78.0,1.1
+35,cal poly,75.0,1.4
+36,cal state bakersfield,75.0,1.2
+37,cal state fullerton,76.0,1.1
+38,cal state northridge,78.0,1.9
+39,california,78.0,1.9
+40,campbell,76.0,1.0
+41,canisius,76.0,1.4
+42,central arkansas,76.0,1.5
+43,central connecticut state,76.0,1.6
+44,central michigan,76.0,1.8
+45,charleston southern,76.0,1.0
+46,charlotte,76.0,1.4
+47,chattanooga,76.0,1.9
+48,chicago state,76.0,1.5
+49,cincinnati,78.0,1.7
+50,clemson,78.0,2.1
+51,cleveland state,77.0,1.3
+52,coastal carolina,76.0,1.5
+53,colgate,77.0,1.5
+54,college of charleston,77.0,1.2
+55,colorado,78.0,1.6
+56,colorado state,77.0,0.8
+57,columbia,77.0,1.5
+58,connecticut,78.0,1.6
+59,coppin state,77.0,0.6
+60,cornell,76.0,1.6
+61,creighton,77.0,1.7
+62,dartmouth,76.0,1.4
+63,davidson,77.0,1.7
+64,dayton,77.0,2.2
+65,delaware,77.0,1.6
+66,delaware state,76.0,1.5
+67,denver,77.0,1.2
+68,depaul,78.0,1.2
+69,detroit-mercy,76.0,1.2
+70,drake,76.0,1.3
+71,drexel,76.0,1.6
+72,duke,78.0,1.6
+73,duquesne,77.0,1.2
+74,east carolina,78.0,1.4
+75,east tennessee state,77.0,1.5
+76,eastern illinois,75.0,0.8
+77,eastern kentucky,76.0,1.0
+78,eastern michigan,78.0,1.5
+79,eastern washington,77.0,1.5
+80,elon,77.0,1.6
+81,evansville,77.0,1.9
+82,fairfield,76.0,1.5
+83,fairleigh dickinson,76.0,1.4
+84,florida international,77.0,1.2
+85,florida,77.0,1.8
+86,florida am,76.0,0.5
+87,florida atlantic,78.0,1.2
+88,florida gulf coast,76.0,1.7
+89,florida state,79.0,1.1
+90,fordham,77.0,1.4
+91,fresno state,77.0,1.9
+92,furman,75.0,1.7
+93,gardner webb,76.0,1.0
+94,george mason,76.0,1.3
+95,george washington,78.0,1.3
+96,georgetown,78.0,1.5
+97,georgia,77.0,1.6
+98,georgia southern,76.0,1.4
+99,georgia state,77.0,1.8
+100,georgia tech,77.0,1.8
+101,gonzaga,78.0,2.0
+102,grambling,75.0,1.2
+103,grand canyon,76.0,1.3
+104,green bay,77.0,1.8
+105,hampton,76.0,1.2
+106,hartford,76.0,1.3
+107,harvard,77.0,1.0
+108,hawaii,77.0,0.9
+109,high point,76.0,1.5
+110,hofstra,76.0,1.6
+111,holy cross,76.0,2.2
+112,houston,77.0,1.7
+113,houston baptist,77.0,2.0
+114,howard,77.0,2.3
+115,idaho,77.0,1.5
+116,idaho state,76.0,1.0
+117,illinois,78.0,2.1
+118,illinois chicago,77.0,0.5
+119,illinois state,77.0,1.6
+120,incarnate word,76.0,1.1
+121,indiana,77.0,1.2
+122,indiana state,76.0,1.4
+123,iona,76.0,1.5
+124,iowa,78.0,1.0
+125,iowa state,76.0,2.5
+126,ipfw,76.0,1.7
+127,iupui,76.0,2.1
+128,jackson state,76.0,1.5
+129,jacksonville,76.0,1.6
+130,jacksonville state,77.0,1.0
+131,james madison,78.0,2.3
+132,kansas,77.0,1.8
+133,kansas state,77.0,1.4
+134,kennesaw state,77.0,1.6
+135,kent state,76.0,1.3
+136,kentucky,77.0,0.8
+137,la salle,77.0,2.0
+138,lafayette,77.0,1.2
+139,lamar,75.0,1.2
+140,lehigh,76.0,1.6
+141,liberty,76.0,1.2
+142,lipscomb,76.0,1.4
+143,long island university,75.0,1.5
+144,long beach state,75.0,1.4
+145,longwood,77.0,1.4
+146,louisiana lafayette,76.0,1.3
+147,louisiana monroe,76.0,1.0
+148,louisiana tech,78.0,1.3
+149,louisville,78.0,1.6
+150,loyola-il,76.0,1.3
+151,loyola marymount,77.0,1.5
+152,loyola md,76.0,1.7
+153,louisiana state,78.0,0.9
+154,maine,76.0,0.9
+155,manhattan,76.0,1.3
+156,marist,77.0,1.4
+157,marquette,77.0,1.7
+158,marshall,77.0,1.6
+159,maryland,77.0,1.1
+160,massachusetts lowell,76.0,1.5
+161,maryland eastern shore,76.0,1.2
+162,massachusetts,77.0,1.1
+163,mcneese state,76.0,1.3
+164,memphis,78.0,1.1
+165,mercer,77.0,1.4
+166,miami fl,78.0,1.5
+167,miami oh,78.0,0.9
+168,michigan,78.0,2.0
+169,michigan state,76.0,1.0
+170,middle tennessee,77.0,1.6
+171,milwaukee,76.0,1.1
+172,minnesota,78.0,1.3
+173,mississippi,77.0,1.4
+174,mississippi state,77.0,0.7
+175,mississippi valley state,75.0,1.2
+176,missouri,76.0,0.8
+177,missouri state,76.0,0.9
+178,monmouth,76.0,2.1
+179,montana,76.0,1.5
+180,montana state,77.0,0.6
+181,morehead state,76.0,1.3
+182,morgan state,77.0,0.8
+183,mount st marys,75.0,1.5
+184,murray state,76.0,1.3
+185,navy,76.0,1.7
+186,nebraska,78.0,1.2
+187,nebraska omaha,77.0,1.5
+188,nevada,78.0,1.6
+189,new hampshire,76.0,2.0
+190,new mexico,78.0,1.6
+191,new mexico state,77.0,1.4
+192,new orleans,76.0,1.8
+193,niagara,76.0,1.2
+194,nicholls state,76.0,1.6
+195,njit,76.0,1.7
+196,norfolk state,77.0,1.1
+197,north carolina,78.0,1.9
+198,north carolina at,76.0,1.3
+199,north carolina central,76.0,2.0
+200,north carolina state,78.0,1.2
+201,north dakota,76.0,1.5
+202,north dakota state,77.0,1.7
+203,north florida,77.0,1.6
+204,north texas,77.0,1.2
+205,northeastern,78.0,1.7
+206,northern arizona,77.0,1.5
+207,northern colorado,76.0,0.7
+208,northern illinois,77.0,1.5
+209,northern iowa,77.0,1.3
+210,northern kentucky,77.0,1.0
+211,northwestern,78.0,1.8
+212,northwestern state,76.0,1.7
+213,notre dame,77.0,2.0
+214,oakland,76.0,1.7
+215,ohio,77.0,1.3
+216,ohio state,78.0,1.6
+217,oklahoma,78.0,0.9
+218,oklahoma state,76.0,1.7
+219,old dominion,77.0,1.6
+220,oral roberts,76.0,1.4
+221,oregon,77.0,1.7
+222,oregon state,78.0,0.6
+223,pacific,77.0,1.7
+224,pennsylvania,76.0,1.2
+225,penn state,78.0,1.1
+226,pepperdine,76.0,1.6
+227,pittsburgh,79.0,2.4
+228,portland,77.0,1.5
+229,portland state,76.0,1.2
+230,prairie view,75.0,1.1
+231,presbyterian,76.0,1.6
+232,princeton,77.0,2.0
+233,providence,78.0,1.1
+234,purdue,77.0,1.6
+235,quinnipiac,77.0,0.7
+236,radford,76.0,0.7
+237,rhode island,77.0,1.9
+238,rice,77.0,1.1
+239,richmond,75.0,1.8
+240,rider,76.0,1.9
+241,robert morris,76.0,1.2
+242,rutgers,78.0,1.4
+243,sacramento state,76.0,1.9
+244,sacred heart,76.0,1.3
+245,saint josephs,77.0,1.2
+246,saint louis,77.0,1.4
+247,saint marys ca,78.0,2.0
+248,saint peters,76.0,2.1
+249,sam houston state,75.0,1.7
+250,samford,77.0,1.3
+251,san diego,77.0,1.1
+252,san diego state,78.0,2.0
+253,san francisco,78.0,0.7
+254,san jose state,78.0,1.3
+255,santa clara,77.0,2.0
+256,savannah state,76.0,0.4
+257,seattle,78.0,1.3
+258,seton hall,77.0,1.8
+259,siena,77.0,2.3
+260,southern illinois edwardsville,77.0,1.2
+261,southern methodist,78.0,1.9
+262,south alabama,77.0,1.5
+263,south carolina,77.0,1.4
+264,south carolina state,76.0,1.2
+265,south dakota,76.0,1.0
+266,south dakota state,77.0,1.7
+267,south florida,78.0,1.0
+268,southeast missouri state,76.0,1.2
+269,southeastern louisiana,76.0,1.0
+270,southern,77.0,1.6
+271,southern illinois,76.0,1.4
+272,southern mississippi,76.0,1.1
+273,southern utah,77.0,1.4
+274,st bonaventure,77.0,1.8
+275,st francis ny,75.0,1.1
+276,saint francis pa,75.0,0.9
+277,st johns ny,77.0,0.6
+278,stanford,78.0,2.0
+279,stephen f austin,77.0,0.9
+280,stetson,76.0,1.7
+281,stony brook,77.0,1.6
+282,syracuse,78.0,1.7
+283,texas christian,78.0,1.2
+284,temple,78.0,1.6
+285,tennessee,77.0,1.0
+286,tennessee martin,76.0,1.5
+287,tennessee state,77.0,1.7
+288,tennessee tech,76.0,1.5
+289,texas,78.0,1.0
+290,texas am,78.0,1.4
+292,texas southern,74.0,0.7
+293,texas state,76.0,0.9
+294,texas tech,77.0,1.8
+295,citadel,75.0,1.0
+296,toledo,78.0,1.8
+297,towson,77.0,1.4
+298,troy,76.0,1.2
+299,tulane,78.0,1.7
+300,tulsa,77.0,1.0
+301,alabama birmingham,77.0,1.9
+302,california davis,76.0,1.7
+303,california irvine,77.0,1.2
+304,california riverside,77.0,0.9
+305,california santa barbara,77.0,1.2
+306,central florida,79.0,2.1
+307,ucla,78.0,1.3
+308,maryland baltimore county,75.0,1.6
+309,missouri kansas city,75.0,1.0
+310,north carolina asheville,76.0,1.9
+311,north carolina greensboro,77.0,1.8
+312,north carolina wilmington,76.0,1.7
+313,nevada las vegas,78.0,1.1
+314,southern california,78.0,1.1
+315,south carolina upstate,77.0,1.6
+316,texas arlington,76.0,1.9
+317,texas pan american,76.0,1.0
+318,utah,78.0,0.8
+319,utah state,78.0,1.0
+320,utah valley,77.0,1.1
+321,texas el paso,77.0,1.8
+322,texas san antonio,77.0,1.1
+323,valparaiso,77.0,1.9
+324,vanderbilt,78.0,1.8
+325,virginia commonwealth,76.0,2.0
+326,vermont,77.0,2.1
+327,villanova,78.0,1.8
+328,virginia,77.0,1.6
+329,virginia tech,77.0,1.7
+330,virginia military institute,76.0,1.8
+331,wagner,76.0,1.4
+332,wake forest,77.0,1.4
+333,washington,77.0,0.7
+334,washington state,77.0,1.6
+335,weber state,76.0,1.7
+336,west virginia,78.0,1.8
+337,western carolina,77.0,1.1
+338,western illinois,77.0,1.5
+339,western kentucky,77.0,2.2
+340,western michigan,78.0,1.2
+341,wichita state,77.0,1.3
+342,william mary,78.0,1.9
+343,winthrop,75.0,2.0
+344,wisconsin,78.0,2.1
+345,wofford,77.0,1.8
+346,wright state,77.0,1.9
+347,wyoming,78.0,1.5
+348,xavier,78.0,1.8
+349,yale,78.0,1.3
+350,youngstown state,77.0,1.3
