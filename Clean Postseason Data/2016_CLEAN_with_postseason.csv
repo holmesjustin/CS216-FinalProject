@@ -1,0 +1,351 @@
+School,Avg_Height,Avg_Experience,Postseason
+abilene christian,75.0,0.8,0
+air force,77.0,1.4,0
+akron,77.0,1.8,0
+alabama,77.0,1.6,0
+alabama am,76.0,1.3,0
+alabama state,75.0,1.7,0
+albany-ny,77.0,1.7,0
+alcorn state,77.0,1.6,0
+american,77.0,1.5,0
+appalachian state,76.0,1.5,0
+arizona,78.0,1.8,1
+arizona state,77.0,1.1,0
+arkansas,77.0,1.8,0
+arkansas little rock,76.0,1.4,1
+arkansas pine bluff,78.0,1.0,0
+arkansas state,77.0,1.0,0
+army,78.0,2.2,0
+auburn,78.0,1.2,0
+austin peay,76.0,0.9,1
+ball state,77.0,1.7,0
+baylor,77.0,1.5,1
+belmont,77.0,1.6,0
+bethune cookman,75.0,1.7,0
+binghamton,76.0,0.8,0
+boise state,78.0,2.1,0
+boston college,78.0,1.4,0
+boston university,77.0,1.7,0
+bowling green-state,77.0,1.2,0
+bradley,78.0,0.3,0
+brown,77.0,1.5,0
+bryant,76.0,1.4,0
+bucknell,76.0,1.7,0
+buffalo,77.0,1.0,1
+butler,77.0,2.2,1
+brigham young,78.0,1.7,0
+cal poly,77.0,1.8,0
+cal state bakersfield,75.0,0.8,1
+cal state fullerton,76.0,0.8,0
+cal state northridge,77.0,1.3,0
+california,79.0,1.4,1
+campbell,75.0,1.4,0
+canisius,76.0,1.9,0
+central arkansas,77.0,0.9,0
+central connecticut state,77.0,1.0,0
+central michigan,76.0,2.2,0
+charleston southern,76.0,1.3,0
+charlotte,76.0,0.8,0
+chattanooga,77.0,1.8,1
+chicago state,76.0,0.8,0
+cincinnati,78.0,1.5,1
+clemson,77.0,2.0,0
+cleveland state,77.0,1.1,0
+coastal carolina,76.0,1.9,0
+colgate,76.0,1.3,0
+college of charleston,77.0,0.8,0
+colorado,78.0,1.8,1
+colorado state,76.0,1.8,0
+columbia,77.0,2.0,0
+connecticut,78.0,1.9,1
+coppin state,77.0,0.5,0
+cornell,76.0,1.2,0
+creighton,77.0,1.5,0
+dartmouth,76.0,1.6,0
+davidson,75.0,1.7,0
+dayton,77.0,1.5,1
+delaware,77.0,1.7,0
+delaware state,76.0,0.9,0
+denver,76.0,1.2,0
+depaul,78.0,1.4,0
+detroit-mercy,77.0,1.4,0
+drake,77.0,1.1,0
+drexel,77.0,1.6,0
+duke,79.0,1.1,1
+duquesne,76.0,1.9,0
+east carolina,78.0,1.4,0
+east tennessee state,76.0,2.0,0
+eastern illinois,74.0,0.6,0
+eastern kentucky,77.0,1.4,0
+eastern michigan,77.0,0.9,0
+eastern washington,76.0,1.7,0
+elon,77.0,1.2,0
+evansville,76.0,2.4,0
+fairfield,77.0,1.1,0
+fairleigh dickinson,76.0,0.7,1
+florida international,77.0,1.0,0
+florida,78.0,1.2,0
+florida am,76.0,0.6,0
+florida atlantic,77.0,1.2,0
+florida gulf coast,77.0,1.3,1
+florida state,79.0,1.2,0
+fordham,76.0,1.4,0
+fresno state,77.0,1.9,1
+furman,76.0,1.5,0
+gardner webb,76.0,1.4,0
+george mason,77.0,1.0,0
+george washington,78.0,2.2,0
+georgetown,78.0,1.4,0
+georgia,77.0,1.7,0
+georgia southern,76.0,0.7,0
+georgia state,77.0,2.2,0
+georgia tech,77.0,2.6,0
+gonzaga,78.0,1.9,1
+grambling,76.0,0.4,0
+grand canyon,76.0,1.3,0
+green bay,77.0,1.6,1
+hampton,76.0,2.3,1
+hartford,75.0,1.3,0
+harvard,78.0,1.4,0
+hawaii,77.0,1.7,1
+high point,76.0,2.1,0
+hofstra,77.0,2.2,0
+holy cross,76.0,1.6,1
+houston,77.0,1.6,0
+houston baptist,77.0,1.8,0
+howard,76.0,1.8,0
+idaho,77.0,1.3,0
+idaho state,76.0,0.5,0
+illinois,78.0,1.5,0
+illinois chicago,78.0,0.9,0
+illinois state,77.0,1.4,0
+incarnate word,76.0,1.2,0
+indiana,77.0,1.7,1
+indiana state,76.0,1.5,0
+iona,77.0,1.6,1
+iowa,78.0,2.0,1
+iowa state,77.0,2.1,1
+ipfw,76.0,1.5,0
+iupui,77.0,1.8,0
+jackson state,76.0,1.3,0
+jacksonville,76.0,1.3,0
+jacksonville state,76.0,0.5,0
+james madison,78.0,1.7,0
+kansas,77.0,1.9,1
+kansas state,78.0,1.2,0
+kennesaw state,76.0,1.8,0
+kent state,76.0,2.2,0
+kentucky,77.0,0.9,1
+la salle,76.0,1.4,0
+lafayette,77.0,1.8,0
+lamar,75.0,0.9,0
+lehigh,76.0,1.6,0
+liberty,76.0,1.0,0
+lipscomb,76.0,1.3,0
+long island university,76.0,1.4,0
+long beach state,76.0,1.4,0
+longwood,75.0,1.5,0
+louisiana lafayette,77.0,1.7,0
+louisiana tech,78.0,1.3,0
+louisville,78.0,1.6,0
+loyola-il,76.0,1.5,0
+loyola marymount,77.0,0.7,0
+loyola md,77.0,2.0,0
+louisiana state,78.0,1.0,0
+maine,76.0,1.1,0
+manhattan,76.0,1.8,0
+marist,77.0,0.9,0
+marquette,78.0,0.8,0
+marshall,77.0,0.8,0
+maryland,79.0,1.7,1
+massachusetts lowell,75.0,0.6,0
+maryland eastern shore,76.0,0.9,0
+massachusetts,76.0,2.0,0
+mcneese state,76.0,1.5,0
+memphis,77.0,1.3,0
+mercer,77.0,1.0,0
+miami fl,78.0,2.1,1
+miami oh,76.0,1.8,0
+michigan,78.0,1.3,1
+michigan state,77.0,1.8,1
+middle tennessee,77.0,1.2,1
+milwaukee,76.0,1.5,0
+minnesota,78.0,1.0,0
+mississippi,77.0,2.0,0
+mississippi state,77.0,1.6,0
+mississippi valley state,75.0,0.6,0
+missouri,76.0,0.8,0
+missouri state,76.0,0.7,0
+monmouth,76.0,1.6,0
+montana,76.0,1.2,0
+montana state,76.0,1.1,0
+morehead state,76.0,1.3,0
+morgan state,76.0,1.5,0
+mount st marys,75.0,1.6,0
+murray state,75.0,1.5,0
+navy,76.0,1.8,0
+nebraska,77.0,1.4,0
+nebraska omaha,76.0,1.1,0
+nevada,77.0,1.2,0
+new hampshire,76.0,1.5,0
+new mexico,78.0,1.3,0
+new mexico state,78.0,1.0,0
+new orleans,75.0,1.3,0
+niagara,77.0,0.7,0
+nicholls state,77.0,1.8,0
+njit,76.0,1.9,0
+norfolk state,76.0,1.2,0
+north carolina,77.0,1.8,1
+north carolina at,76.0,2.0,0
+north carolina central,76.0,1.7,0
+north carolina state,79.0,1.2,0
+north dakota,77.0,0.7,0
+north dakota state,77.0,1.4,0
+north florida,77.0,2.2,0
+north texas,76.0,0.8,0
+northeastern,78.0,2.1,0
+northern arizona,76.0,0.7,0
+northern colorado,75.0,1.1,0
+northern illinois,76.0,1.3,0
+northern iowa,77.0,2.1,1
+northern kentucky,76.0,1.7,0
+northwestern,78.0,1.9,0
+northwestern state,76.0,1.3,0
+notre dame,78.0,1.7,1
+oakland,76.0,1.8,0
+ohio,78.0,1.2,0
+ohio state,78.0,0.8,0
+oklahoma,77.0,2.0,1
+oklahoma state,77.0,1.2,0
+old dominion,77.0,1.7,0
+oral roberts,76.0,1.3,0
+oregon,78.0,0.9,1
+oregon state,78.0,1.2,1
+pacific,77.0,1.0,0
+pennsylvania,76.0,1.1,0
+penn state,78.0,1.6,0
+pepperdine,76.0,1.9,0
+pittsburgh,79.0,2.1,1
+portland,77.0,1.2,0
+portland state,76.0,1.2,0
+prairie view,75.0,0.6,0
+presbyterian,75.0,1.2,0
+princeton,77.0,1.4,0
+providence,77.0,1.1,1
+purdue,78.0,1.5,1
+quinnipiac,77.0,0.8,0
+radford,75.0,1.8,0
+rhode island,76.0,1.4,0
+rice,76.0,1.0,0
+richmond,77.0,2.2,0
+rider,76.0,2.3,0
+robert morris,77.0,0.6,0
+rutgers,77.0,1.2,0
+sacramento state,76.0,1.6,0
+sacred heart,76.0,1.4,0
+saint josephs,77.0,1.8,1
+saint louis,77.0,1.4,0
+saint marys ca,77.0,1.0,0
+saint peters,77.0,1.3,0
+sam houston state,76.0,0.7,0
+samford,76.0,0.8,0
+san diego,77.0,1.2,0
+san diego state,79.0,1.5,0
+san francisco,76.0,1.1,0
+san jose state,79.0,0.8,0
+santa clara,77.0,1.0,0
+savannah state,76.0,0.7,0
+seattle,78.0,1.2,0
+seton hall,78.0,1.1,1
+siena,78.0,1.7,0
+southern illinois edwardsville,76.0,0.7,0
+southern methodist,77.0,1.9,0
+south alabama,77.0,1.5,0
+south carolina,78.0,1.9,0
+south carolina state,76.0,1.3,0
+south dakota,76.0,1.6,0
+south dakota state,77.0,1.3,1
+south florida,78.0,1.2,0
+southeast missouri state,77.0,1.0,0
+southeastern louisiana,75.0,1.1,0
+southern,76.0,1.6,1
+southern illinois,75.0,1.7,0
+southern mississippi,76.0,0.7,0
+southern utah,76.0,1.5,0
+st bonaventure,76.0,1.5,0
+st francis ny,75.0,1.0,0
+saint francis pa,76.0,1.9,0
+st johns ny,78.0,1.3,0
+stanford,78.0,1.6,0
+stephen f austin,75.0,1.6,1
+stetson,75.0,1.1,0
+stony brook,77.0,2.0,1
+syracuse,79.0,1.6,1
+texas christian,77.0,1.2,0
+temple,78.0,2.2,1
+tennessee,77.0,1.4,0
+tennessee martin,75.0,1.4,0
+tennessee state,76.0,1.4,0
+tennessee tech,76.0,1.0,0
+texas,76.0,2.0,1
+texas am,78.0,1.9,1
+texas am corpus christi,76.0,2.6,0
+texas southern,76.0,1.2,0
+texas state,76.0,1.1,0
+texas tech,77.0,1.5,1
+citadel,75.0,1.7,0
+toledo,78.0,1.4,0
+towson,77.0,1.6,0
+troy,76.0,0.8,0
+tulane,78.0,1.4,0
+tulsa,76.0,2.6,1
+alabama birmingham,77.0,1.5,0
+california davis,76.0,1.3,0
+california irvine,78.0,2.4,0
+california riverside,77.0,1.0,0
+california santa barbara,76.0,2.0,0
+central florida,79.0,1.4,0
+ucla,78.0,1.1,0
+maryland baltimore county,76.0,1.2,0
+missouri kansas city,76.0,1.0,0
+north carolina asheville,76.0,1.3,1
+north carolina greensboro,76.0,1.5,0
+north carolina wilmington,76.0,1.5,1
+nevada las vegas,78.0,1.3,0
+southern california,79.0,1.2,1
+south carolina upstate,77.0,0.7,0
+texas arlington,76.0,1.0,0
+texas pan american,77.0,1.7,0
+utah,78.0,1.7,1
+utah state,77.0,1.1,0
+utah valley,76.0,1.1,0
+texas el paso,77.0,1.3,0
+texas san antonio,76.0,0.9,0
+valparaiso,78.0,2.0,0
+vanderbilt,78.0,1.4,1
+virginia commonwealth,76.0,2.0,1
+vermont,77.0,1.5,0
+villanova,77.0,1.7,1
+virginia,78.0,2.0,1
+virginia tech,77.0,1.1,0
+virginia military institute,76.0,1.9,0
+wagner,76.0,1.5,0
+wake forest,78.0,1.3,0
+washington,77.0,0.5,0
+washington state,78.0,1.5,0
+weber state,77.0,1.3,1
+west virginia,77.0,1.2,1
+western carolina,75.0,2.0,0
+western illinois,77.0,1.3,0
+western kentucky,77.0,1.4,0
+western michigan,78.0,1.6,0
+wichita state,77.0,2.0,1
+william mary,78.0,1.8,0
+winthrop,75.0,1.2,0
+wisconsin,78.0,1.3,1
+wofford,76.0,2.0,0
+wright state,77.0,1.4,0
+wyoming,77.0,1.3,0
+xavier,78.0,1.6,1
+yale,77.0,2.2,1
+youngstown state,77.0,0.7,0
